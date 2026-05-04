@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="w0zLqRyRpbW5PehAbX2k">
-    <mxGraphModel dx="614" dy="734" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1500" background="light-dark(#FFFFFF,#F3F3F3)" math="0" shadow="0">
+    <mxGraphModel dx="776" dy="927" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1500" background="light-dark(#FFFFFF,#F3F3F3)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,7 +482,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ws1HEHDAXMc7w63GCYBk-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#333333);fontSize=10;" value="QUIC Handshake" vertex="1">
-          <mxGeometry height="20" width="105" x="547" y="758" as="geometry" />
+          <mxGeometry height="20" width="265" x="465" y="758" as="geometry" />
         </mxCell>
         <mxCell id="Ws1HEHDAXMc7w63GCYBk-57" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#333333);startArrow=none;startFill=0;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -497,7 +497,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ws1HEHDAXMc7w63GCYBk-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#333333);fontSize=10;" value="Observed Address" vertex="1">
-          <mxGeometry height="20" width="105" x="550" y="791" as="geometry" />
+          <mxGeometry height="20" width="265" x="460" y="791" as="geometry" />
         </mxCell>
         <mxCell id="Ws1HEHDAXMc7w63GCYBk-60" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#000000,#333333);startArrow=classic;startFill=1;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -506,7 +506,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ws1HEHDAXMc7w63GCYBk-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#333333);fontSize=10;" value="Address Notification" vertex="1">
-          <mxGeometry height="20" width="105" x="550" y="816" as="geometry" />
+          <mxGeometry height="20" width="270" x="460" y="816" as="geometry" />
         </mxCell>
         <mxCell id="Ws1HEHDAXMc7w63GCYBk-62" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#000000,#333333);startArrow=classic;startFill=1;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
